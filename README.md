@@ -1,4 +1,4 @@
-Features:
+### `Features`
 Workout Types: Choose from a variety of workout types to create your workout routines, including strength training, cardio, yoga, and more.
 Scheduling: Set reminders for your workout sessions to keep yourself accountable and on track.
 Progress Tracking: Monitor your progress over time and see how far you've come towards your fitness goals.
