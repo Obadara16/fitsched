@@ -4,6 +4,7 @@ Scheduling: Set reminders for your workout sessions to keep yourself accountable
 Progress Tracking: Monitor your progress over time and see how far you've come towards your fitness goals.
 Profile Management: Add and manage your workout routines, view your workout history, and update your personal information.
 User Authentication: Securely sign up and log in to your FitSched account to access all of the app's features.
+
 Getting Started
 To get started with FitSched, follow these steps:
 
@@ -30,3 +31,4 @@ Push your changes to your forked repository.
 Submit a pull request to the main FitSched repository and describe your changes.
 License
 FitSched is licensed under the MIT License. See the LICENSE file for more information.
+
