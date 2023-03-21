@@ -1,11 +1,11 @@
-Features
+Features:
 Workout Types: Choose from a variety of workout types to create your workout routines, including strength training, cardio, yoga, and more.
 Scheduling: Set reminders for your workout sessions to keep yourself accountable and on track.
 Progress Tracking: Monitor your progress over time and see how far you've come towards your fitness goals.
 Profile Management: Add and manage your workout routines, view your workout history, and update your personal information.
 User Authentication: Securely sign up and log in to your FitSched account to access all of the app's features.
 
-Getting Started
+Getting Started:
 To get started with FitSched, follow these steps:
 
 Clone the FitSched repository to your local machine.
